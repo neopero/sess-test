@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>##### Penta Test Application #####</title>
+<title>##### Test Application #####</title>
 </head>
 <body>
 	<%
